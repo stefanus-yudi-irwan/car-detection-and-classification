@@ -1,1 +1,5 @@
 **/data/
+**.mp4
+**/yolov5/
+venv
+__pycache__
