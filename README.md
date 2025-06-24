@@ -69,17 +69,17 @@ This project aims to build a robust computer vision system capable of:
 
 ## 📊 Evaluation Results
 
-### 🔍 Detection (YOLOv5)
+### 🔍 Detection (YOLOv5s)
 
-- **Precision**: *e.g., 0.87*
-- **Recall**: *e.g., 0.85*
-- **mAP\@0.5**: *e.g., 0.88*
+- **Precision**: *0.894*
+- **Recall**: *0.862*
+- **mAP\@0.5**: *0.912*
+- **mAP\@0.5:0.95**: *0.670*
 
-### 🧪 Classification (CNN)
+### 🧪 Classification (VGG16)
 
-- **Accuracy**: *e.g., 82%*
+- **Accuracy**: *0.7251*
 - **Confusion Matrix**: ✅ Well-separated classes
-- **PR Curve / ROC Curve**: ✅ Threshold tuning done for optimal F1
 
 ## 📦 Installation
 
