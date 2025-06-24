@@ -117,5 +117,5 @@ The result of car detection and classification
 </p>
 
 ## Creator
-👨‍💼 Maintained by **Stefanus Yudi Irwan**\
-📧 Reach out: [My Websites](https://stefanus-yudi-irwan.github.io/)
+👨‍💼 Maintained by **Stefanus Yudi Irwan**  
+📧 Reach out: [My Website](https://stefanus-yudi-irwan.github.io/) | [Email](mailto:yudi.stefanus22@gmail.com)
